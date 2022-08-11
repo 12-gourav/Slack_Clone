@@ -21,7 +21,7 @@ To deploy this project run
 
 <img src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg" alt="image" width="400">
 
-http://googleclone123.herokuapp.com/search
+https://slack-clone143.netlify.app/
 
 ## 🚀 About Me
 I'm a full stack developer. I
